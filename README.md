@@ -73,7 +73,6 @@ Ensure you have the following installed:
 
 - Python 3.6 or higher
 - Jupyter Notebook
-- Necessary Python packages (listed in `requirements.txt`)
 
 You can install the required packages using pip:
 
