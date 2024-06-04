@@ -86,8 +86,8 @@ pip install -r requirements.txt
 1. **Clone the Repository**:
    
    ```bash
-   git clone https://github.com/pulinduvidmal/Aerial_Semantic_Segmentation_Drone.git
-   cd Aerial_Semantic_Segmentation_Drone
+   git clone https://github.com/pulinduvidmal/Semantic_Segmentation_Using_U-Net.git
+   cd Semantic_Segmentation_Using_U-Net
    ```
 
 2. **Open the Jupyter Notebook**:
