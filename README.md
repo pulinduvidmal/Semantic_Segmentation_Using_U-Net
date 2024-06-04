@@ -150,5 +150,5 @@ If you would like to contribute, please fork the repository and submit a pull re
 
 ## License
 
-This repository is licensed under the [MIT License](LICENSE). See the `LICENSE` file for more details.
+This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
