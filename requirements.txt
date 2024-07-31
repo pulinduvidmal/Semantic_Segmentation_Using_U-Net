@@ -1,5 +1,5 @@
 tensorflow==2.13
-numpy==1.24.0
-Pillow==9.4.0
+numpy
+Pillow
 matplotlib==3.7.1
 imageio==2.23.0
